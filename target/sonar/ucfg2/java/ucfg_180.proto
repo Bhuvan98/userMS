@@ -1,0 +1,18 @@
+
+Kcom.management.UserMS.service.BuyerService#isValidName(Ljava/lang/String;)Z}
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javal l("1*Ñ
+1}
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javan	 n(Â
+¿
+}
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javan	 n(F
+%0boolean"Ljava.util.regex.Pattern#matches(Ljava/lang/String;Ljava/lang/CharSequence;)Z*"
+java.util.regex.Pattern*(&
+$^[a-zA-Z]+[-a-zA-Z\\s]+([-a-zA-Z]+)$*
+
+namejava.lang.String"‡
+}
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javan n(G
+"":
+namejava.lang.StringB.,
+*com.management.UserMS.service.BuyerService

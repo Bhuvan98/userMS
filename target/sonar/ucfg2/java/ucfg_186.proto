@@ -1,0 +1,46 @@
+
+Mcom.management.UserMS.service.BuyerService#IsPrivileged(Ljava/lang/Integer;)Z
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java» »("3*ê
+2
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaŒ
+ Œ("â
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaŒ Œ(
+""*•
+
+3
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java   (Å
+˛
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java   (6
+%00com.management.UserMS.repository.BuyerRepository"__id*=*;,
+*com.management.UserMS.service.BuyerService"
+	buyerRepoÅ˛
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java   (/(
+%1"com.management.UserMS.entity.Buyer"ecom.management.UserMS.repository.BuyerRepository#findByBuyerId(I)Lcom/management/UserMS/entity/Buyer;*8
+6
+%00com.management.UserMS.repository.BuyerRepository*
+
+buyerIdjava.lang.Integer2findByBuyerId(I)„
+‡
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java   (0+
+buyer"com.management.UserMS.entity.Buyer"__id**
+(
+%1"com.management.UserMS.entity.Buyer®•
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaÃ Ã(
+%2java.lang.Boolean"Gcom.management.UserMS.entity.Buyer#getIsPrivileged()Ljava/lang/Boolean;*-
++
+buyer"com.management.UserMS.entity.Buyer2getIsPrivileged()*
+2
+1*ê
+1
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java“
+ “("â
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.java“ “(
+"":
+buyerIdjava.lang.IntegerB.,
+*com.management.UserMS.service.BuyerService

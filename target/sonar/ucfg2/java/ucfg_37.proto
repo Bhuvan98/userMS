@@ -1,0 +1,36 @@
+
+fcom.management.UserMS.controller.BuyerController#allWishlistItems(Ljava/lang/Integer;)Ljava/util/List;…
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.java† †(*"1*–
+1…
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.java‡ ‡(´
+±
+…
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.java‡ ‡(
+%0java.io.PrintStream"__id*
+""Ÿœ
+…
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.java‡ ‡(.
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+inside buyer privilege2println(Ljava/lang/String;)‹
+ˆ
+…
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaˆ	 ˆ(0
+%2*com.management.UserMS.service.BuyerService"__id*F*D2
+0com.management.UserMS.controller.BuyerController"
+buyerServiceþû
+…
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaˆ	 ˆ(/
+%3java.util.List"`com.management.UserMS.service.BuyerService#allWishlistItems(Ljava/lang/Integer;)Ljava/util/List;*2
+0
+%2*com.management.UserMS.service.BuyerService*
+
+buyerIdjava.lang.Integer2%allWishlistItems(Ljava/lang/Integer;)" 
+…
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaˆ ˆ(0
+
+%3java.util.List:
+buyerIdjava.lang.IntegerB42
+0com.management.UserMS.controller.BuyerController

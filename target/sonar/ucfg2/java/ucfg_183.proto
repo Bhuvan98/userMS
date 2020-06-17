@@ -1,0 +1,54 @@
+
+Pcom.management.UserMS.service.BuyerService#getRewardPoints(Ljava/lang/Integer;)I
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaé é("1*»
+1
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaè è(≠
+™
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaè è(
+%0java.io.PrintStream"__id*
+""”
+–
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaè è(&
+%1java.lang.String"__concat*	
+BuyerId*
+
+buyerIdjava.lang.Integerñì
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaè è('
+
+%2void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+
+%1java.lang.String2println(Ljava/lang/String;)Å
+˛
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaê ê(6
+%30com.management.UserMS.repository.BuyerRepository"__id*=*;,
+*com.management.UserMS.service.BuyerService"
+	buyerRepoÅ˛
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaê ê(.(
+%4"com.management.UserMS.entity.Buyer"ecom.management.UserMS.repository.BuyerRepository#findByBuyerId(I)Lcom/management/UserMS/entity/Buyer;*8
+6
+%30com.management.UserMS.repository.BuyerRepository*
+
+buyerIdjava.lang.Integer2findByBuyerId(I)„
+‡
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaê ê(/+
+buyer"com.management.UserMS.entity.Buyer"__id**
+(
+%4"com.management.UserMS.entity.Buyer®•
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaë	 ë( 
+%5java.lang.Integer"Gcom.management.UserMS.entity.Buyer#getRewardPoints()Ljava/lang/Integer;*-
++
+buyer"com.management.UserMS.entity.Buyer2getRewardPoints()"â
+
+sC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaë ë(!
+"":
+buyerIdjava.lang.IntegerB.,
+*com.management.UserMS.service.BuyerService

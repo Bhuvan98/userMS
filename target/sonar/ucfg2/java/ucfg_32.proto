@@ -1,0 +1,36 @@
+
+Xcom.management.UserMS.controller.BuyerController#isBuyerPrivileged(Ljava/lang/Integer;)ZÉ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javag g(!"1*‹
+
+1É
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javah h(≤
+Ø
+É
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javah h(
+%0java.io.PrintStream"__id*
+""ùö
+É
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javah h(.
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+inside buyer privilege2println(Ljava/lang/String;)â
+Ü
+É
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javai	 i(0
+%2*com.management.UserMS.service.BuyerService"__id*F*D2
+0com.management.UserMS.controller.BuyerController"
+buyerServiceﬁ€
+É
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javai	 i(+
+%3boolean"Mcom.management.UserMS.service.BuyerService#IsPrivileged(Ljava/lang/Integer;)Z*2
+0
+%2*com.management.UserMS.service.BuyerService*
+
+buyerIdjava.lang.Integer2!IsPrivileged(Ljava/lang/Integer;)"é
+É
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javai i(,
+"":
+buyerIdjava.lang.IntegerB42
+0com.management.UserMS.controller.BuyerController

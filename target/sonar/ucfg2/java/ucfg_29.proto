@@ -1,0 +1,55 @@
+
+xcom.management.UserMS.controller.BuyerController#deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)Ljava/lang/String;ƒ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaM M("startingBlock*†
+startingBlockƒ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaM M(>†
+ƒ
+ƒ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaL L(U
+%4"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTO†
+ƒ
+ƒ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaM M(+
+%5"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTO×
+Ô
+ƒ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaM5 M(=.
+buyerDTO"com.management.UserMS.dto.BuyerDTO"__annotation*
+
+%4*
+
+%5*
+4*²
+4ƒ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaO O(‰
+†
+ƒ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaO O(0
+%0*com.management.UserMS.service.BuyerService"__id*F*D2
+0com.management.UserMS.controller.BuyerController"
+buyerService•’
+ƒ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaO O(*
+
+%1void"acom.management.UserMS.service.BuyerService#deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)V*2
+0
+%0*com.management.UserMS.service.BuyerService*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTO25deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)*
+1*«
+1ƒ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaS
+ S("Ÿ
+ƒ
+yC:/Users/Bhuvaneswaran/Desktop/New folder (14)/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaS S( 
+Account Deactivated:.
+buyerDTO"com.management.UserMS.dto.BuyerDTOB42
+0com.management.UserMS.controller.BuyerController
